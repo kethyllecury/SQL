@@ -1,6 +1,6 @@
 # SQL
 
-# Desafios e Atividades Acadêmicas
+## Desafios e Atividades Acadêmicas
 
 Este repositório contém diversos arquivos SQL referentes a desafios técnicos e atividades acadêmicas. A seguir, você encontra uma breve descrição de cada arquivo.
 
